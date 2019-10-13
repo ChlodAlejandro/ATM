@@ -1,5 +1,7 @@
 # ATMProject
 
+![CODE SPAGHETTI LEVEL 4](https://chlodalejandro.github.io/images/spaghet-lvl4.png)
+
 **This program was built exclusively for Windows**
 
 This repository contains a large .cpp file that contains the code for my Computer Science 2 4th Quarter project, an ATM simulator.
