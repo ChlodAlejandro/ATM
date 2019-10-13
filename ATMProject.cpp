@@ -1,4 +1,4 @@
-/**
+/*
 
 ATM Simulation Program
 
