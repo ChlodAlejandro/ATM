@@ -4,11 +4,12 @@ ATM Simulation Program
 
 Created by Chlod Aidan Alejandro
 
-This program is distributed under GNU-AGPLv3.
+This program is distributed under Apache-2.0.
 
 Listen to the teacher. C++ is a hard thing to learn. Wait for Grade 9
 and then don't listen. (Grade 9 Chlod here, and I just want to say to PLEASE
-STILL LISTEN TO THE TEACHER)
+STILL LISTEN TO THE TEACHER) (Grade 10 Chlod here, and again, please listen
+to the damn teacher.)
 
 The code for the SHA256 snippet is of the ownership of it's official developer. Omittion from the
 code may be allowed anytime if deemed fit.
