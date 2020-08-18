@@ -1,0 +1,7 @@
+# VS
+.vscode
+
+# Output
+*.exe
+data
+atm.cfg
