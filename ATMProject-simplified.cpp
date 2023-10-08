@@ -9,7 +9,7 @@ This program is distributed under Apache-2.0.
 Listen to the teacher. C++ is a hard thing to learn. Wait for Grade 9
 and then don't listen. (Grade 9 Chlod here, and I just want to say to PLEASE
 STILL LISTEN TO THE TEACHER) (Grade 10 Chlod here, and again, please listen
-to the damn teacher.)
+to the damn teacher.) (2nd year college Chlod here. LISTEN!!!)
 
 I also suggest that you read the "What CS2 Doesn't Teach" in the README.md.
 
